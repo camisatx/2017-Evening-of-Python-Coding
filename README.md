@@ -1,8 +1,8 @@
-# 2017 - An Evening of Python Coding Talk - Tenacity
+# September 2017 - An Evening of Python Coding Talk - Tenacity
 
 [![AGPLv3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](http://opensource.org/licenses/AGPL-3.0)
 
-I will give this short talk on the [Tenacity](https://github.com/jd/tenacity) Python library at a future [An Evening of Python Coding](https://www.meetup.com/austinpython/) event.
+This is the short talk on the [Tenacity](https://github.com/jd/tenacity) Python library I presented at the September 2017 [An Evening of Python Coding](https://www.meetup.com/austinpython/) event.
 
 Tenacity is a library that uses decorators to **retry** a specific task after an Exception occurs. Retrying occurs at the specified intervals for a specified duration.
 
