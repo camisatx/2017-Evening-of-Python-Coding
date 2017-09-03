@@ -6,9 +6,11 @@ This is the short talk on the [Tenacity](https://github.com/jd/tenacity) Python 
 
 Tenacity is a library that uses decorators to **retry** a specific task after an Exception occurs. Retrying occurs at the specified intervals for a specified duration.
 
+View the notebook [here](tenacity.ipynb).
+
 ## Presentation Instructions
 
-I wrote this talk within a Jupyter Notebook, thus make sure you have Jupyter and Python installed. The easiest way to get this working is to download and install [Anaconda](https://www.continuum.io/downloads).
+I wrote this talk within a Jupyter Notebook, thus make sure you have Jupyter and Python installed. The easiest way to get this working is to download and install [Anaconda](https://www.anaconda.com/download/).
 
 Steps:
 1. Download the repository
